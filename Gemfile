@@ -35,8 +35,12 @@ end
 #include bootstrap
 gem 'bootstrap-sass', '~> 3.3.5.1'
 
+#adding simple form
+gem 'simple_form'
+
 #change sprockets gem
 gem 'sprockets', '2.11.0'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
